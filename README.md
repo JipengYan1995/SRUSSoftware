@@ -1,4 +1,6 @@
 # SRUSSoftware
+![image](https://user-images.githubusercontent.com/115006782/222759440-4eb15139-52f2-40a3-8a89-b6abcd961345.png)
+
 ## License
 Before downloading and using the software, you accept all the terms contained in the End User License Agreement.
 
@@ -26,4 +28,4 @@ Brief description of software can be found in Software Description.
 ## Acknowledgement
 
 Thanks for insightful suggestions/feedbacks from 
-Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zhang, Dr. Matthieu Toulemonde, Dr. Channa Jayasena, Mrs. Nikoleta Papanikolaou and Mr. Biao Huang.
+Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zhang, Mr. Joseph Hansen-Shearer Dr. Matthieu Toulemonde, Dr. Channa Jayasena, Mrs. Nikoleta Papanikolaou and Mr. Biao Huang.
