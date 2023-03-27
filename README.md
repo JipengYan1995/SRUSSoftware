@@ -23,6 +23,7 @@ Brief description of software can be found in Software Description.
 ## Academic reference to be cited:
 
 1.	Jipeng Yan, Tao Zhang, Jacob Broughton-Venner, Pintong Huang, Meng-Xing Tang. Super-Resolution Ultrasound Through Sparsity-Based Deconvolution and Multi-Feature Tracking, IEEE Transactions on Medical Imaging, 2022. DOI: 10.1109/TMI.2022.3152396
+2.  Jipeng Yan, Biao Huang, Johanna Tonko, Matthieu Toulemonde, Joseph Hansen-Shearer, Qingyuan Tan, Kai Riemer, Konstantinos Ntagiantas, Rasheda A Chowdhury, Pier Lambiase, Roxy Senior, Meng-Xing Tang. Transthoracic Super-Resolution Ultrasound Localization Microscopy of Myocardial Vasculature in Patients, Pre-print, 2023. DOI: arXiv:2303.14003 
 
 
 ## Acknowledgement
