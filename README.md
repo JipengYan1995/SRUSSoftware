@@ -1,6 +1,6 @@
 # SRUS Software
+If you watch this repository, you can be notified of updates.
 ![image](https://user-images.githubusercontent.com/115006782/222759440-4eb15139-52f2-40a3-8a89-b6abcd961345.png)
-
 ## License
 Before downloading and using the software, you accept all the terms contained in the End User License Agreement.
 
