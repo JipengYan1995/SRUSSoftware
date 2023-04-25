@@ -1,6 +1,12 @@
 # SRUS Software Version 2.2
 If you watch this repository, you can be notified of updates.
+## Interface
+### Load Data / Quick Run / Motion Correction
+![image](https://user-images.githubusercontent.com/115006782/234406496-37c38d55-f854-454f-a9d3-eb77065e6846.png)
+### Localisation / Tracking / Plotting
 ![image](https://user-images.githubusercontent.com/115006782/234350783-49e7c0f7-55b3-448e-adc3-c9229fc99809.png)
+### Parameter Calculation / Animation Generation 
+![image](https://user-images.githubusercontent.com/115006782/234407982-6f23b5b0-21b8-45cb-817f-731f8267c722.png)
 
 ## License
 Before downloading and using the software, you accept all the terms contained in the End User License Agreement.
@@ -39,6 +45,6 @@ Localisation 3.0->3.1
 
 Plotting 2.1 ->2.2
 
-More details about updates can be found at the end of User Guide
+More details about updates can be found at the end of the User Guide.
 
 
