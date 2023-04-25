@@ -1,6 +1,7 @@
-# SRUS Software
+# SRUS Software Version 2.2
 If you watch this repository, you can be notified of updates.
-![image](https://user-images.githubusercontent.com/115006782/222759440-4eb15139-52f2-40a3-8a89-b6abcd961345.png)
+![image](https://user-images.githubusercontent.com/115006782/234350783-49e7c0f7-55b3-448e-adc3-c9229fc99809.png)
+
 ## License
 Before downloading and using the software, you accept all the terms contained in the End User License Agreement.
 
@@ -30,3 +31,14 @@ Brief description of software can be found in Software Description.
 
 Thanks for insightful suggestions/feedbacks from 
 Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zhang, Mr. Joseph Hansen-Shearer Dr. Matthieu Toulemonde, Dr. Channa Jayasena, Mrs. Nikoleta Papanikolaou and Mr. Biao Huang.
+
+## Updates from Version 2.1 to 2.2
+GUI 2.1->2.2
+
+Localisation 3.0->3.1
+
+Plotting 2.1 ->2.2
+
+More details about updates can be found at the end of User Guide
+
+
