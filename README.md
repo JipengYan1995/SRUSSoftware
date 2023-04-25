@@ -34,8 +34,11 @@ Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zh
 
 ## Updates from Version 2.1 to 2.2
 GUI 2.1->2.2
+
 Localisation 3.0->3.1
+
 Plotting 2.1 ->2.2
+
 More details about updates can be found at the end of User Guide
 
 
