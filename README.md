@@ -5,6 +5,7 @@ If you watch this repository, you can be notified of updates.
 ![image](https://user-images.githubusercontent.com/115006782/234406496-37c38d55-f854-454f-a9d3-eb77065e6846.png)
 ### Localisation / Tracking / Plotting
 ![image](https://user-images.githubusercontent.com/115006782/234350783-49e7c0f7-55b3-448e-adc3-c9229fc99809.png)
+The image was generated from data (15.6 MHz centre fequency, 100 Hz frame rate, 8000 frames) shared in Ultra-SR Challenge of IEEE IUS 2022, which downsampled from the experimental data (1000 Hz frame rate, 200000 frames) used in the article Heiles, Chavignon et al. NBME, 2022. 
 ### Parameter Calculation / Animation Generation 
 ![image](https://user-images.githubusercontent.com/115006782/234407982-6f23b5b0-21b8-45cb-817f-731f8267c722.png)
 
