@@ -1,4 +1,4 @@
-# SRUS Software Version 2.2
+# SRUS Software Version 2.3
 If you watch this repository, you can be notified of updates.
 ## Interface
 ### Load Data / Quick Run / Motion Correction
