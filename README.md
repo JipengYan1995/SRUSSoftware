@@ -2,9 +2,10 @@
 If you watch this repository, you can be notified of updates.
 ## Interface
 ### Load Data / Quick Run / Motion Correction
-![image](https://user-images.githubusercontent.com/115006782/234406496-37c38d55-f854-454f-a9d3-eb77065e6846.png)
+![Interface1](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/39c1c4ad-8f4a-4161-98a5-bbd79d666366)
+
 ### Localisation / Tracking / Plotting
-![image](https://user-images.githubusercontent.com/115006782/234350783-49e7c0f7-55b3-448e-adc3-c9229fc99809.png)
+![Interface2](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/311cf8a4-5871-47fc-b085-cbb30b4a50fe)
 ### Parameter Calculation / Animation Generation 
 ![image](https://user-images.githubusercontent.com/115006782/234407982-6f23b5b0-21b8-45cb-817f-731f8267c722.png)
 
@@ -38,12 +39,8 @@ Brief description of software can be found in Software Description.
 Thanks for insightful suggestions/feedbacks from 
 Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zhang, Mr. Joseph Hansen-Shearer Dr. Matthieu Toulemonde, Dr. Channa Jayasena, Mrs. Nikoleta Papanikolaou and Mr. Biao Huang.
 
-## Updates from Version 2.1 to 2.2
-GUI 2.1->2.2
-
-Localisation 3.0->3.1
-
-Plotting 2.1 ->2.2
+## Updates from Version 2.2 to 2.3
+GUI 2.2->2.3
 
 More details about updates can be found at the end of the User Guide.
 
