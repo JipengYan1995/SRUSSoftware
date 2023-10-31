@@ -3,11 +3,12 @@ If you watch this repository, you can be notified of updates.
 ## Interface
 ### Load Data / Quick Run / Motion Correction
 ![Interface1](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/39c1c4ad-8f4a-4161-98a5-bbd79d666366)
-
 ### Localisation / Tracking / Plotting
 ![Interface2](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/311cf8a4-5871-47fc-b085-cbb30b4a50fe)
 ### Parameter Calculation / Animation Generation 
-![image](https://user-images.githubusercontent.com/115006782/234407982-6f23b5b0-21b8-45cb-817f-731f8267c722.png)
+![Interface3](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/78cedafa-04fb-4c3d-9976-15bb0ef21b1d)
+Image Reconstructed from mouse brain data in the Ultra-SR Challenge 2022, provided by Olivier Couture
+
 
 ## License
 Before downloading and using the software, you accept all the terms contained in the End User License Agreement.
