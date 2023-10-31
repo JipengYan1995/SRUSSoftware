@@ -6,6 +6,8 @@ If you watch this repository, you can be notified of updates.
 ### Localisation / Tracking / Plotting
 ![Interface2](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/311cf8a4-5871-47fc-b085-cbb30b4a50fe)
 ### Parameter Calculation / Animation Generation 
+![Interface3](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/ef96d5a5-384f-4e6e-9774-6b405218549b)
+
 ![Interface3](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/78cedafa-04fb-4c3d-9976-15bb0ef21b1d)
 Image Reconstructed from mouse brain data in the Ultra-SR Challenge 2022, provided by Olivier Couture
 
