@@ -1,5 +1,8 @@
 # SRUS Software Version 2.3
-If you watch this repository, you can be notified of updates.
+### If you watch this repository, you can be notified of updates. 
+### It is suggested to download the software through from the releases that are at the right hand. 
+
+
 ## Interface
 ### Load Data / Quick Run / Motion Correction
 ![Interface1](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/39c1c4ad-8f4a-4161-98a5-bbd79d666366)
