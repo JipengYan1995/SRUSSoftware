@@ -1,6 +1,6 @@
 # SRUS Software Version 2.3
 ### If you watch this repository, you can be notified of updates. 
-### It is suggested to download the software through from the releases that are at the right hand. 
+###  "ULIS_SRUS2.3_non_parallel_version" version is the same as "ULIS_SRUS2.3" except that parallel calculations are not used in motion correction.
 
 
 ## Interface
@@ -9,7 +9,7 @@
 ### Localisation / Tracking / Plotting
 ![Interface2](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/311cf8a4-5871-47fc-b085-cbb30b4a50fe)
 #### Image Reconstructed from mouse brain data in the Ultra-SR Challenge 2022, provided by Olivier Couture. 
-#### Frame rate of the data is one tenth frame rate of the NBME public mouse brain data.
+#### The frame rate of the data is 1/10 of the NBME public mouse brain data.
 ### Parameter Calculation / Animation Generation 
 ![Interface3](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/ef96d5a5-384f-4e6e-9774-6b405218549b)
 
