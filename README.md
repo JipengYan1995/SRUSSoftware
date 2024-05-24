@@ -1,7 +1,7 @@
 # SRUS Software Version 2.3
 ### If you watch this repository, you can be notified of updates. 
 ###  "ULIS_SRUS2.3_non_parallel_version" is the same as "ULIS_SRUS2.3" except that parallel calculations are not used in motion correction.
-
+### If you find long and straight lines after tracking, please check if the "max blood flow speed (unit: m/s)" is set too large and try smaller value to it.
 
 ## Interface
 ### Load Data / Quick Run / Motion Correction
@@ -53,7 +53,7 @@ In vivo human heart: https://doi.org/10.5281/zenodo.11096558
 ## Acknowledgement
 
 Thanks for insightful suggestions/feedbacks from 
-Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zhang, Mr. Joseph Hansen-Shearer Dr. Matthieu Toulemonde, Dr. Channa Jayasena, Mrs. Nikoleta Papanikolaou and Mr. Biao Huang.
+Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zhang, Mr. Joseph Hansen-Shearer Dr. Matthieu Toulemonde, Dr. Channa Jayasena, Mrs. Nikoleta Papanikolaou, Mr. Biao Huang and Dr. Su Yan.
 
 ## Updates from Version 2.2 to 2.3
 GUI 2.2->2.3
