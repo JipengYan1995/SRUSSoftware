@@ -4,17 +4,13 @@
 
 ## Interface
 ### Load Data / Quick Run / Motion Correction
+![Interface1](https://github.com/user-attachments/assets/6b0f31ad-d7be-4626-928e-5919180047ce)
  
-
-
 ### Localisation / Tracking / Plotting
- 
-
+![Interface2](https://github.com/user-attachments/assets/10cf00a7-01b6-4d9e-9a14-1b3f7644e1ad)
 
 ### Parameter Calculation / Animation Generation 
- 
-
-
+![Interface3](https://github.com/user-attachments/assets/90eaeda6-f2f8-4ef9-818c-82939d6de00d)
 
 ## License
 Before downloading and using the software, you accept all the terms contained in the End User License Agreement.
