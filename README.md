@@ -46,7 +46,7 @@ In vivo human heart: https://doi.org/10.5281/zenodo.11096558
 ## Acknowledgement
 
 Thanks for insightful suggestions/feedbacks from 
-Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zhang, Mr. Joseph Hansen-Shearer Dr. Matthieu Toulemonde, Dr. Channa Jayasena, Mrs. Nikoleta Papanikolaou, Mr. Biao Huang and Dr. Su Yan.
+Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zhang, Mr. Joseph Hansen-Shearer Dr. Matthieu Toulemonde, Dr. Channa Jayasena, Mrs. Nikoleta Papanikolaou, Mr. Biao Huang, Dr. Su Yan and Mrs. Maoyao Li.
 
 ## Updates from Version 2.3 to 2.4
 GUI 2.3->2.4
