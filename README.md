@@ -1,21 +1,18 @@
-# SRUS Software Version 2.3
+# SRUS Software Version 2.4
 ### If you watch this repository, you can be notified of updates. 
-###  "ULIS_SRUS2.3_non_parallel_version" is the same as "ULIS_SRUS2.3" except that parallel calculations are not used in motion correction.
 ### If you find long and straight lines after tracking, please check if the "max blood flow speed (unit: m/s)" is set too large and try smaller value to it.
 
 ## Interface
 ### Load Data / Quick Run / Motion Correction
-![Interface1](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/39c1c4ad-8f4a-4161-98a5-bbd79d666366)
-### Localisation / Tracking / Plotting
-![Interface2](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/311cf8a4-5871-47fc-b085-cbb30b4a50fe)
-#### The above image is reconstructed from mouse brain data in the Ultra-SR Challenge 2022, provided by Olivier Couture. 
-#### The frame rate of the data is 1/10 of the NBME public mouse brain data.
-![software_interface_heart](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/ccd99590-6906-4ac7-983e-48edeac51867)
-#### Ihe above image is reconstructed from transthoracic CEUS data (duration 3.6s) of a patient.
-### Parameter Calculation / Animation Generation 
-![Interface3](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/ef96d5a5-384f-4e6e-9774-6b405218549b)
+ 
 
-![Interface3](https://github.com/JipengYan1995/SRUSSoftware/assets/115006782/78cedafa-04fb-4c3d-9976-15bb0ef21b1d)
+
+### Localisation / Tracking / Plotting
+ 
+
+
+### Parameter Calculation / Animation Generation 
+ 
 
 
 
@@ -55,8 +52,11 @@ In vivo human heart: https://doi.org/10.5281/zenodo.11096558
 Thanks for insightful suggestions/feedbacks from 
 Prof. Yuanyi Zheng, Prof.  Pintong Huang, Prof. Christopher W Dunsby, Dr. Tao Zhang, Mr. Joseph Hansen-Shearer Dr. Matthieu Toulemonde, Dr. Channa Jayasena, Mrs. Nikoleta Papanikolaou, Mr. Biao Huang and Dr. Su Yan.
 
-## Updates from Version 2.2 to 2.3
-GUI 2.2->2.3
+## Updates from Version 2.3 to 2.4
+GUI 2.3->2.4
+Motion Correction 2.0->2.1
+Background Removal 2.0-> 2.1
+Parameter Calculation 2.1 ->2.2
 
 More details about updates can be found at the end of the User Guide.
 
