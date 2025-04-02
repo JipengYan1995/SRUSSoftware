@@ -1,4 +1,4 @@
-# SRUS Software Version 2.4
+# SRUS Software Version 2.4.1
 ### If you watch this repository, you can be notified of updates. 
 ### If you find long and straight lines after tracking, please check if the "max blood flow speed (unit: m/s)" is set too large and try smaller value to it.
 
@@ -20,7 +20,7 @@ Before downloading and using the software, you accept all the terms contained in
 
 Ultrasound Lab for Sensing and Imaging, Department of Bioengineering, Imperial College London.
 
-Feedbacks, questions, and requirements about Software: Jipeng Yan (j.yan19@imperial.ac.uk, jipeng_yan@163.com)
+Feedbacks, questions, and requirements about Software: Jipeng Yan (jipeng_yan@163.com)
 
 Rights, collaborations, and others to Meng-Xing Tang (mengxing.tang@imperial.ac.uk)
 
@@ -55,5 +55,10 @@ Background Removal 2.0-> 2.1
 Parameter Calculation 2.1 ->2.2
 
 More details about updates can be found at the end of the User Guide.
+
+### Updates from 2.4.0 to 2.4.1: 
+Localisation 3.1-> 3.2
+Improve PSF estimation and localisation for images reconstructed with large pixels, where bubble images are small in pixel numbers. 
+Update Matlab Runtime from R2021a to R2024b.
 
 
