@@ -1,6 +1,7 @@
 # SRUS Software Version 2.4.1
-### If you watch this repository, you can be notified of updates. 
 ### If you find long and straight lines after tracking, please check if the "max blood flow speed (unit: m/s)" is set too large and try smaller value to it.
+### Please switch the button to "All Frames" in the "Background Reduction" panel before using the "Quick Run"
+### If you watch this repository, you can be notified of updates. 
 
 ## Interface
 ### Load Data / Quick Run / Motion Correction
